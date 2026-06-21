@@ -13,4 +13,4 @@ Basic implementation of core Data Science concepts using Python.
 Python, NumPy, Pandas, Matplotlib, SciPy
 
 ## Author
-Sameer P. Shaikh
+Sameer!
