@@ -1,3 +1,7 @@
+### Quick Revise and reference videos
+[Watch Demo](https://www.youtube.com/playlist?list=PLPH_tWLRGSZI)
+
+
 ## Celebal Data Science Internship Assignments
 
 # Week 1 — Data Science Foundations
